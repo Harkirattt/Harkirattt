@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harkirat Singh Jaggi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **ThreeJS**
 
