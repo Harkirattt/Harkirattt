@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">👋 Hi, I'm <a href="https://linkedin.com/in/harkirattt" target="_blank">Harkirat Singh Jaggi</a></h1>
-<h3 align="center">🚀 Student | AI Enthusiast | Data Engineer | Full Stack Dev | 2x Hackathon Winner</h3>
+<h3 align="center">🚀 AI Enthusiast | Data Engineer | Full Stack Dev </h3>
 
 <p align="center">
   🌱 Currently exploring <b>React Native</b><br/>
